@@ -149,7 +149,7 @@
             Controls.Add(txtMovieTitle);
             Controls.Add(lblMovieTitle);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Movie Entry";
             Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)numMoviePrice).EndInit();
             ResumeLayout(false);
