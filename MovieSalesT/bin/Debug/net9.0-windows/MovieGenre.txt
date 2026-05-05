@@ -1,0 +1,8 @@
+Action
+Comedy
+Horror
+Science Fiction
+Drama
+Romance
+Sports
+Isekai
